@@ -11,7 +11,7 @@
 /spatdif/source/Bed1/position 0.0 0.0 0.0
 /spatdif/source/Bed1/interpolate 0
 /spatdif/source/Bed1/track_mapping bed_1
-/spatdif/source/Bed1/gain 1
+/spatdif/source/Bed1/gain 0
 /spatdif/source/Bed1/interactive 0
 /spatdif/source/Bed2/position 0.0 0.0 0.0
 /spatdif/source/Bed2/interpolate 0
